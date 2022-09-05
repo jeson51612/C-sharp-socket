@@ -1,0 +1,14 @@
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\bin\Debug\socket.exe.config
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\bin\Debug\socket.exe
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\bin\Debug\socket.pdb
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.csproj.AssemblyReference.cache
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.Properties.Resources.resources
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.csproj.GenerateResource.cache
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.csproj.CoreCompileInputs.cache
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.exe
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.pdb
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.csproj.CopyComplete
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.MainForm.resources
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.Client.resources
+C:\Users\AK47\Desktop\Zealogics Taiwan\socket\socket\obj\Debug\socket.Server.resources
